@@ -1,7 +1,15 @@
+HEAD
 numpy
 pandas
 matplotlib
 seaborn
 nltk
 scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+scikit-learn
+de4064f (Initial commit with app, dataset, and gitignore)
 streamlit
